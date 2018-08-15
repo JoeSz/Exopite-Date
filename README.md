@@ -2,8 +2,10 @@
 
 A fluent extension to PHPs DateTime class.
 
-This class is an extension of Expressive Date class.
-Based on https://github.com/jasonlewis/expressive-date
+This class is an extension of Expressive Date class.<br>
+Class and readme based on https://github.com/jasonlewis/expressive-date
+
+---
 
 [![Build Status](https://travis-ci.org/jasonlewis/expressive-date.png?branch=master)](https://travis-ci.org/jasonlewis/expressive-date)
 
